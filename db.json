@@ -138,7 +138,10 @@
 	}
 },
 	"adrequest": {
+		"campaign_id": "dsfsdf3453453",
 		"name": "Teen Patti Gold - With Poker & Rummy",
+		"campaign_type": "CPA",
+		"campaign_rate" : "$0.3",
 		"short_desc": "Play Teen Patti with Millions of Players around the world real-time! Play with Anyone, Anywhere and Anytime! Download Now and get 1 Lakh Chips Free! ",
 		"category": ["Casino", "Games"],
 		"rating": 4.5,
