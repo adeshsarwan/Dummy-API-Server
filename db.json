@@ -147,7 +147,7 @@
 		"rating": 4.5,
 		"store_url": "https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold",
 		"tracking_link": "https://ad.doubleclick.net/ddm/trackclk/N4835.3636576ZEROGAMES/B22904079.250760791;dc_trk_aid=446950222;dc_trk_cid=118490976;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=",
-		"creatives" : [
+		"creatives" : {
 			"images" : {
 				"100X100": "http://icons.iconarchive.com/icons/martin-berube/sport/128/Cricket-icon.png",
 				"340X340": "https://static.watchtime.com/wp-content/uploads/2019/07/Blancpain_Fifty-Fathoms-Barakuda_Only-Watch_2019_FI-340x340.jpg",
@@ -160,6 +160,6 @@
 				"size"	: "640X480",
 				"VAST_TAG" : "http://s.vertamedia.com/?width=640&height=480&ua= Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36(KHTML,likeGecko)Chrome/52.0.2743.98MobileSafari/537.36&uip=202.134.162.62&app_name=DemoRacingGame&app_bundle=com.plakc.racingdemo&idfa=[replace_me]&adid=ccabc796-3d7a-48db-b6b4-3af07ee3da43&geo_lat=19.0760&geo_lon=72.8777&cb=46170&windadid={windadid}&app_store_url= https://play.google.com/store/apps/details?id=com.plakc.racingdemo&aid=362538"
 			}
-		]
+		}
 	}
 }
