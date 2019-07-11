@@ -1,27 +1,106 @@
 {
-	"adrequest": {
+	"native": {
 		"campaign_id": "dsfsdf3453453",
-		"name": "Teen Patti Gold - With Poker & Rummy",
+		"sub_pub_id" : "34234SDASD11",
 		"campaign_type": "CPA",
 		"campaign_rate" : "$0.3",
-		"short_desc": "Play Teen Patti with Millions of Players around the world real-time! Play with Anyone, Anywhere and Anytime! Download Now and get 1 Lakh Chips Free! ",
-		"category": ["Casino", "Games"],
-		"rating": 4.5,
-		"store_url": "https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold",
-		"tracking_link": "https://ad.doubleclick.net/ddm/trackclk/N4835.3636576ZEROGAMES/B22904079.250760791;dc_trk_aid=446950222;dc_trk_cid=118490976;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=",
-		"creatives" : {
-			"images" : {
-				"I_100X100": "http://icons.iconarchive.com/icons/martin-berube/sport/128/Cricket-icon.png",
-				"I_340X340": "https://static.watchtime.com/wp-content/uploads/2019/07/Blancpain_Fifty-Fathoms-Barakuda_Only-Watch_2019_FI-340x340.jpg",
-				"I_1200X628": "https://cdn.shopify.com/s/files/1/0267/2191/products/Product-Facebook-Ad_2048x.jpg",
-				"I_320X480": "https://images.wallpaperscraft.com/image/balloon_sky_clouds_138993_320x480.jpg",
-				"I_300X250": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ad-MediumRectangle-300x250.jpg",
-				"I_320X50": "https://i1.wp.com/theonlineadvertisingguide.com/wp-content/uploads/2017/08/320x50_jpg.jpg"
+		"link": {
+			"url" : "https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold",
+			"clicktrackers" : ["https://thezerogames.online/5d26e8a2b6920d54de7a2e0b?p1=CLICK_ID&source=SUB_PUB_ID"]
+		},
+		"assets" : [
+			{
+				"id" : 1,
+				"required" : 1,
+				"title" : {
+					"text" : "Teen Patti Gold - With Poker & Rummy"
+				}
 			},
-			"videos" : {
-				"size"	: "640X480",
-				"VAST_TAG" : "http://s.vertamedia.com/?width=640&height=480&ua= Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36(KHTML,likeGecko)Chrome/52.0.2743.98MobileSafari/537.36&uip=202.134.162.62&app_name=DemoRacingGame&app_bundle=com.plakc.racingdemo&idfa=[replace_me]&adid=ccabc796-3d7a-48db-b6b4-3af07ee3da43&geo_lat=19.0760&geo_lon=72.8777&cb=46170&windadid={windadid}&app_store_url= https://play.google.com/store/apps/details?id=com.plakc.racingdemo&aid=362538"
+			{
+				"id" : 2,
+				"required" : 1,
+				"data" : {
+					"label" : "rating",
+					"value" : "3.4 out of 5"
+				}
+			},
+			{
+				"id" : 3,
+				"required" : 1,
+				"data" : {
+					"label" : "description",
+					"value" : "Play Teen Patti with Millions of Players around the world real-time! Play with Anyone, Anywhere and Anytime! Download Now and get 1 Lakh Chips Free! "
+				}
+			},
+			{
+				"id" : 3,
+				"required" : 1,
+				"data" : {
+					"label" : "downloads",
+					"value" : "1mn +"
+				}
+			},
+			{
+				"id" : 100,
+				"required" : 1,
+				"img" : {
+					"url" : "http://icons.iconarchive.com/icons/martin-berube/sport/128/Cricket-icon.png",
+					"w" : 100,
+					"h" : 100
+				}
+			},
+			{
+				"id" : 101,
+				"required" : 1,
+				"img" : {
+					"url" : "https://static.watchtime.com/wp-content/uploads/2019/07/Blancpain_Fifty-Fathoms-Barakuda_Only-Watch_2019_FI-340x340.jpg",
+					"w" : 340,
+					"h" : 340
+				}
+			},
+			{
+				"id" : 102,
+				"required" : 1,
+				"img" : {
+					"url" : "http://www.nachc.org/wp-content/uploads/job-manager-uploads/company_logo/2017/02/CFHC_LOGOTagline-5-800x418.jpg",
+					"w" : 800,
+					"h" : 418
+				}
+			},
+			{
+				"id" : 103,
+				"required" : 1,
+				"img" : {
+					"url" : "https://images.wallpaperscraft.com/image/balloon_sky_clouds_138993_320x480.jpg",
+					"w" : 320,
+					"h" : 480
+				}
+			},
+			{
+				"id" : 104,
+				"required" : 1,
+				"img" : {
+					"url" : "https://upload.wikimedia.org/wikipedia/commons/2/24/Ad-MediumRectangle-300x250.jpg",
+					"w" : 300,
+					"h" : 250
+				}
+			},
+			{
+				"id" : 105,
+				"required" : 1,
+				"img" : {
+					"url" : "https://i1.wp.com/theonlineadvertisingguide.com/wp-content/uploads/2017/08/320x50_jpg.jpg",
+					"w" : 320,
+					"h" : 50
+				}
+			},
+			{
+				"id" : 200,
+				"required" : 1,
+				"video" : {
+					"vasttag" : "http://s.vertamedia.com/?width=640&height=480&ua= Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36(KHTML,likeGecko)Chrome/52.0.2743.98MobileSafari/537.36&uip=202.134.162.62&app_name=DemoRacingGame&app_bundle=com.plakc.racingdemo&idfa=[replace_me]&adid=ccabc796-3d7a-48db-b6b4-3af07ee3da43&geo_lat=19.0760&geo_lon=72.8777&cb=46170&windadid={windadid}&app_store_url= https://play.google.com/store/apps/details?id=com.plakc.racingdemo&aid=362538"
+				}
 			}
-		}
+		]
 	}
 }
