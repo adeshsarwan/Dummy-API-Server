@@ -6,7 +6,7 @@
 		"campaign_rate" : "$0.3",
 		"link": {
 			"url" : "https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold",
-			"clicktrackers" : ["https://thezerogames.online/5d26e8a2b6920d54de7a2e0b?p1=CLICK_ID&source=SUB_PUB_ID"]
+			"clicktrackers" : ["https://thezerogames.online/5d26e8a2b6920d54de7a2e0b?p1={{CLICK_ID}}&source={{SUB_PUB_ID}}"]
 		},
 		"assets" : [
 			{
@@ -98,7 +98,7 @@
 				"id" : 200,
 				"required" : 1,
 				"video" : {
-					"vasttag" : "http://s.vertamedia.com/?width=640&height=480&ua= Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36(KHTML,likeGecko)Chrome/52.0.2743.98MobileSafari/537.36&uip=202.134.162.62&app_name=DemoRacingGame&app_bundle=com.plakc.racingdemo&idfa=[replace_me]&adid=ccabc796-3d7a-48db-b6b4-3af07ee3da43&geo_lat=19.0760&geo_lon=72.8777&cb=46170&windadid={windadid}&app_store_url= https://play.google.com/store/apps/details?id=com.plakc.racingdemo&aid=362538"
+					"vasttag" : "https://vid.springserve.com/vast/351744?w={{WIDTH}}&h={{HEIGHT}}&url={{ENCODED_URL}}&cb={{CACHEBUSTER}}&consent={{CONSENT}}&gdpr={{GDPR}}"
 				}
 			}
 		]
