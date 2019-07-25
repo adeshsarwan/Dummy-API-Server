@@ -131,5 +131,9 @@
 				
 			}
 		]
+	},
+	"checkIfValidVideoCall"	: {
+		"status"	: "approved",
+		"reason"	: "paid"
 	}
 }
