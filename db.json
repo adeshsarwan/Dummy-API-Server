@@ -135,5 +135,106 @@
 	"checkIfValidVideoCall"	: {
 		"status"	: "approved",
 		"reason"	: "paid"
+	},
+	"getCMSThemeHeader"	: {
+		"navigations" : {
+			"total"	: 6,
+			"navigation" : [
+				{
+					"name"	: "Home",
+					"link"	: "/"
+				},
+				{
+					"name"	: "About",
+					"link"	: "/about"
+				},
+				{
+					"name"	: "Services",
+					"link"	: "/services"
+				},
+				{
+					"name"	: "Gallery",
+					"link"	: "/portfolio"
+				},
+				{
+					"name"	: "Blog",
+					"link"	: "/thoughtbubble"
+				},
+				{
+					"name"	: "Contact",
+					"link"	: "/contact"
+				}
+			]
+		},
+		"logo"	: "http://asdas.asdas.com/asdas.jpg",
+		"phone_icon"	: "http://asdas.asdas.com/asdas.jpg",
+		"phone_number"	: "022-12356784"
+	},
+	"getCMSThemeFooter"	: {
+		"logo"	: "http://asdas.asdas.com/asdas.jpg",
+		"facebook_link"	: "",
+		"twitter_link"	: "http://asdas.asdas.com/asdas.jpg",
+		"linkedin_link"	: "http://asdas.asdas.com/asdas.jpg",
+		"copyright"	:	"uh sudhfks jdfssdj sdf",
+		"total_columns"	: 3,
+		"columns"	: [
+			{
+				"title"	: "OurClinic",
+				"links"	: [
+					{
+						"name"	: "About",
+						"link_url"	: "/about"
+					},
+					{
+						"name"	: "Services",
+						"link_url"	: "/services"
+					},
+					{
+						"name"	: "Gallery",
+						"link_url"	: "/gallery"
+					},
+					{
+						"name"	: "Contact",
+						"link_url"	: "/contact_us"
+					}
+				]
+			},
+			{
+				"title"	: "UsefulLinks",
+				"links"	: [
+					{
+						"name"	: "Signup/Login",
+						"link_url"	: "/login"
+					},
+					{
+						"name"	: "Appointment Booking",
+						"link_url"	: "/appointments"
+					},
+					{
+						"name"	: "Blog",
+						"link_url"	: "/blog"
+					}
+				]
+			},
+			{
+				"title"	: "Reach Us At",
+				"rows"	: [
+					{
+						"icon_image"	: "http://asdas.asdas.com/asdas.jpg",
+						"address_line_1"	: "1009, Samarth Vaibhav CHSL",
+						"address_line_2"	: "Andheri West"
+					},
+					{
+						"icon_image"	: "http://asdas.asdas.com/asdas.jpg",
+						"phone_line_1"	: "+91 22 - 12345678",
+						"phone_line_2"	: "+91 22 - 12344678"
+					},
+					{
+						"icon_image"	: "http://asdas.asdas.com/asdas.jpg",
+						"email_line_1"	: "info@clinicinsights.com"
+					}
+				]
+			}
+		]
 	}
 }
