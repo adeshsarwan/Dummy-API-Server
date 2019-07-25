@@ -102,5 +102,34 @@
 				}
 			}
 		]
+	},
+	"patientChatList" : {
+		"total"	: 3,
+		"doctors"	: [
+			{
+				"id"	: "sdfsd34534534ssd",
+				"name"	: "Dr Adesh Sarwan",
+				"speciality"	: "Heart Surgeon",
+				"avatar"	: "http://sdfsdf.com/ttuty.jpg",
+				"lastChated"	: "Jul-27-2019 - 01:00 PM"
+				
+			},
+			{
+				"id"	: "sdfsd34534534ssd",
+				"name"	: "Dr Arjun Chadha",
+				"speciality"	: "Orthopaedician",
+				"avatar"	: "http://sdfsdf.com/ttuty.jpg",
+				"lastChated"	: "Jul-27-2019 - 01:00 PM"
+				
+			},
+			{
+				"id"	: "sdfsd34534534ssd",
+				"name"	: "Dr Nishanth Kotapalli",
+				"speciality"	: "Neurology",
+				"avatar"	: "http://sdfsdf.com/ttuty.jpg",
+				"lastChated"	: ""
+				
+			}
+		]
 	}
 }
