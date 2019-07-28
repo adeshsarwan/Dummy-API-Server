@@ -132,9 +132,14 @@
 			}
 		]
 	},
-	"checkIfValidVideoCall"	: {
-		"status"	: "approved",
-		"reason"	: "paid"
+	"checkIfValid"	: {
+		"success"	: true,
+		"user_id"	: "5aa1c2c35ef7a4e97b5e995b"
+	},
+	"checkIfValidCall"	: {
+		"success"	: true,
+		"caller_id"	: "5d3c20eb4cf4d737bad3ce57",
+		"receiver_id"	: "5aa1c2c35ef7a4e97b5e995b"
 	},
 	"getCMSThemeHeader"	: {
 		"navigations" : {
